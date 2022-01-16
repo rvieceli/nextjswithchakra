@@ -1,0 +1,298 @@
+{
+  "continents": [
+    {
+      "code": "europe",
+      "name": "Europe",
+      "description": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
+      "cover_photo_url": "https://images.unsplash.com/photo-1473951574080-01fe45ec8643?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2704&q=80",
+      "stats": {
+        "languages": 50,
+        "countries": 40,
+        "cities": 27
+      },
+      "cities": [
+        {
+          "name": "Londres",
+          "country": "Reino Unido",
+          "cover_photo_url": "https://images.unsplash.com/photo-1533929736458-ca588d08c8be?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2670&q=80",
+          "flag_url": "https://hatscripts.github.io/circle-flags/flags/gb.svg"
+        },
+        {
+          "name": "Paris",
+          "country": "França",
+          "cover_photo_url": "https://images.unsplash.com/photo-1471874708433-acd480424946?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8ZXVyb3BlfGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=900&q=60",
+          "flag_url": "https://hatscripts.github.io/circle-flags/flags/fr.svg"
+        },
+        {
+          "name": "Rome",
+          "country": "Itália",
+          "cover_photo_url": "https://images.unsplash.com/photo-1542820229-081e0c12af0b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cm9tZXxlbnwwfDB8MHx8&auto=format&fit=crop&w=900&q=60",
+          "flag_url": "https://hatscripts.github.io/circle-flags/flags/it.svg"
+        },
+        {
+          "name": "Praga",
+          "country": "Republica Tcheca",
+          "cover_photo_url": "https://images.unsplash.com/photo-1519677100203-a0e668c92439?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cHJhZ3VlfGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=900&q=60",
+          "flag_url": "https://hatscripts.github.io/circle-flags/flags/cz.svg"
+        },
+        {
+          "name": "Berlin",
+          "country": "Alemanhã",
+          "cover_photo_url": "https://images.unsplash.com/photo-1554072675-66db59dba46f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGJlcmxpbnxlbnwwfDB8MHx8&auto=format&fit=crop&w=900&q=60",
+          "flag_url": "https://hatscripts.github.io/circle-flags/flags/de.svg"
+        },
+        {
+          "name": "Badapest",
+          "country": "Hungria",
+          "cover_photo_url": "https://images.unsplash.com/photo-1558392606-89f76d482685?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGh1bmdhcnl8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=900&q=60",
+          "flag_url": "https://hatscripts.github.io/circle-flags/flags/hu.svg"
+        }
+      ]
+    },
+    {
+      "code": "asia",
+      "name": "Asia",
+      "description": "A Ásia é o maior dos continentes, tanto em área como em população. Abrange um terço das partes sólidas da superfície da Terra e é responsável por abrigar quase três quintos da população mundial. A Ásia faz fronteira no lado ocidental com a África e com a Europa, e no lado oriental com o oceano Pacífico, a Oceania e, em menor proporção, com a América do Norte, pelo Estreito de Bering. ",
+      "cover_photo_url": "https://images.unsplash.com/photo-1535139262971-c51845709a48?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2670&q=80",
+      "stats": {
+        "languages": 2301,
+        "countries": 50,
+        "cities": 72
+      },
+      "cities": [
+        {
+          "name": "Toquio",
+          "country": "Japão",
+          "cover_photo_url": "https://images.unsplash.com/photo-1570521462033-3015e76e7432?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dG9raW98ZW58MHx8MHx8&auto=format&fit=crop&w=900&q=60",
+          "flag_url": "https://hatscripts.github.io/circle-flags/flags/jp.svg"
+        },
+        {
+          "name": "Moscou",
+          "country": "Russia",
+          "cover_photo_url": "https://images.unsplash.com/photo-1547448415-e9f5b28e570d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bW9zY293fGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=900&q=60",
+          "flag_url": "https://hatscripts.github.io/circle-flags/flags/ru.svg"
+        },
+        {
+          "name": "Beijing",
+          "country": "China",
+          "cover_photo_url": "https://images.unsplash.com/photo-1537410056906-d336ddf64024?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YmVpamluZ3xlbnwwfDB8MHx8&auto=format&fit=crop&w=900&q=60",
+          "flag_url": "https://hatscripts.github.io/circle-flags/flags/cn.svg"
+        },
+        {
+          "name": "Seoul",
+          "country": "South Korea",
+          "cover_photo_url": "https://images.unsplash.com/photo-1517154421773-0529f29ea451?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2670&q=80",
+          "flag_url": "https://hatscripts.github.io/circle-flags/flags/kr.svg"
+        },
+        {
+          "name": "Riyadh",
+          "country": "Arabia Saudita",
+          "cover_photo_url": "https://images.unsplash.com/photo-1586724237569-f3d0c1dee8c6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c2F1ZGklMjBhcmFiaWF8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=900&q=60",
+          "flag_url": "https://hatscripts.github.io/circle-flags/flags/sa.svg"
+        },
+        {
+          "name": "Bangkok",
+          "country": "Thailandia",
+          "cover_photo_url": "https://images.unsplash.com/photo-1508009603885-50cf7c579365?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YmFuZ2tva3xlbnwwfDB8MHx8&auto=format&fit=crop&w=900&q=60",
+          "flag_url": "https://hatscripts.github.io/circle-flags/flags/th.svg"
+        }
+      ]
+    },
+    {
+      "code": "africa",
+      "name": "Africa",
+      "description": "A África é o terceiro continente mais extenso (depois da Ásia e da América) com cerca de 30 milhões de quilômetros quadrados, cobrindo 20,3% da área total da terra firme do planeta. É o segundo continente mais populoso da Terra (atrás da Ásia) com cerca de um bilhão de pessoas (estimativa para 2005[1]), representando cerca de um sétimo da população mundial, e 54 países independentes. Tem se transformado na ultima década em uma continente cada vez mais católico.",
+      "cover_photo_url": "https://images.unsplash.com/photo-1484318571209-661cf29a69c3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8YWZyaWNhfGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=2670&h=1000&q=80",
+      "stats": {
+        "languages": 2301,
+        "countries": 50,
+        "cities": 72
+      },
+      "cities": [
+        {
+          "name": "Cape Town",
+          "country": "Africa do Sul",
+          "cover_photo_url": "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2FwZSUyMHRvd258ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=768&h=510&q=80",
+          "flag_url": "https://hatscripts.github.io/circle-flags/flags/za.svg"
+        },
+        {
+          "name": "Nairobi",
+          "country": "Quenia",
+          "cover_photo_url": "https://images.unsplash.com/photo-1596005554384-d293674c91d7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bmFpcm9iaXxlbnwwfDB8MHx8&auto=format&fit=crop&w=768&h=510&q=80",
+          "flag_url": "https://hatscripts.github.io/circle-flags/flags/ke.svg"
+        },
+        {
+          "name": "Lagos",
+          "country": "Nigeria",
+          "cover_photo_url": "https://images.unsplash.com/photo-1618828665011-0abd973f7bb8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bGFnb3N8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=768&h=510&q=80",
+          "flag_url": "https://hatscripts.github.io/circle-flags/flags/ng.svg"
+        },
+        {
+          "name": "Toamasina",
+          "country": "Madagascar",
+          "cover_photo_url": "https://images.unsplash.com/photo-1558694440-03ade9215d7b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bWFkYWdhc2NhcnxlbnwwfDB8MHx8&auto=format&fit=crop&w=768&h=510&q=80",
+          "flag_url": "https://hatscripts.github.io/circle-flags/flags/mg.svg"
+        },
+        {
+          "name": "Lilongwe",
+          "country": "Malawi",
+          "cover_photo_url": "https://images.unsplash.com/photo-1612286710224-dd9eb9d8349a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bWFsYXdpfGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=768&h=510&q=80",
+          "flag_url": "https://hatscripts.github.io/circle-flags/flags/mw.svg"
+        },
+        {
+          "name": "Kampala",
+          "country": "Uganda",
+          "cover_photo_url": "https://images.unsplash.com/photo-1601421870615-152a188a58bc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8a2FtcGFsYXxlbnwwfDB8MHx8&auto=format&fit=crop&w=768&h=510&q=80",
+          "flag_url": "https://hatscripts.github.io/circle-flags/flags/ug.svg"
+        }
+      ]
+    },
+    {
+      "code": "oceania",
+      "name": "Oceania",
+      "description": "Oceania ou Oceânia é uma região geográfica composta por vários grupos de ilhas do oceano Pacífico (Polinésia, Melanésia e Micronésia). O termo Oceania foi criado em 1831 pelo explorador francês Dumont d'Urville. O termo é usado hoje em vários idiomas para designar uma região geográfica e política que compreende o continente da Austrália e ilhas do Oceano Pacífico adjacentes.",
+      "cover_photo_url": "https://images.unsplash.com/photo-1622732794483-fc1de4dcb3b1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80",
+      "stats": {
+        "languages": 30,
+        "countries": 16,
+        "cities": 72
+      },
+      "cities": [
+        {
+          "name": "Sydney",
+          "country": "Australia",
+          "cover_photo_url": "https://images.unsplash.com/photo-1546268060-2592ff93ee24?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c3lkbmV5fGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=900&q=60",
+          "flag_url": "https://hatscripts.github.io/circle-flags/flags/au.svg"
+        },
+        {
+          "name": "Tasmania",
+          "country": "Australia",
+          "cover_photo_url": "https://images.unsplash.com/photo-1512017615494-fdf6146235ff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cXVlZW5zdG93bnxlbnwwfDB8MHx8&auto=format&fit=crop&w=900&q=60",
+          "flag_url": "https://hatscripts.github.io/circle-flags/flags/au.svg"
+        },
+        {
+          "name": "Wellington",
+          "country": "Nova Zelandia",
+          "cover_photo_url": "https://images.unsplash.com/photo-1589871973318-9ca1258faa5d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8d2VsbGluZ3RvbnxlbnwwfDB8MHx8&auto=format&fit=crop&w=900&q=60",
+          "flag_url": "https://hatscripts.github.io/circle-flags/flags/nz.svg"
+        },
+        {
+          "name": "Melbourne",
+          "country": "Australia",
+          "cover_photo_url": "https://images.unsplash.com/photo-1594300157693-a741f98738c2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWVsYm91cm5lfGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=900&q=60",
+          "flag_url": "https://hatscripts.github.io/circle-flags/flags/au.svg"
+        },
+        {
+          "name": "Padar Island",
+          "country": "Indonesia",
+          "cover_photo_url": "https://images.unsplash.com/photo-1476158085676-e67f57ed9ed7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2800&q=80",
+          "flag_url": "https://hatscripts.github.io/circle-flags/flags/id.svg"
+        },
+        {
+          "name": "Port Moresby",
+          "country": "Papua Nova Guine",
+          "cover_photo_url": "https://images.unsplash.com/photo-1564029975906-c1f48ea75d88?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cG9ydCUyMG1vcmVzYnl8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=900&q=60",
+          "flag_url": "https://hatscripts.github.io/circle-flags/flags/pg.svg"
+        }
+      ]
+    },
+    {
+      "code": "america-do-norte",
+      "name": "America do Norte",
+      "description": "A América do Norte é um subcontinente que compreende a porção setentrional do continente americano. Existem duas formas de classificar esse continente: a primeira considera que a América do Norte é apenas a parte mais setentrional da América, separada da América Central na fronteira entre o México e a Guatemala.",
+      "cover_photo_url": "https://images.unsplash.com/photo-1622732794483-fc1de4dcb3b1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80",
+      "stats": {
+        "languages": 4,
+        "countries": 3,
+        "cities": 72
+      },
+      "cities": [
+        {
+          "name": "Nova Yorque",
+          "country": "Estados Unidos",
+          "cover_photo_url": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bmV3JTIweW9ya3xlbnwwfDB8MHx8&auto=format&fit=crop&w=900&q=60",
+          "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
+        },
+        {
+          "name": "Los Angeles",
+          "country": "Estados Unidos",
+          "cover_photo_url": "https://images.unsplash.com/photo-1515896769750-31548aa180ed?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bG9zJTIwYW5nZWxlc3xlbnwwfDB8MHx8&auto=format&fit=crop&w=900&q=60",
+          "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
+        },
+        {
+          "name": "Cidade do Mexico",
+          "country": "Mexico",
+          "cover_photo_url": "https://images.unsplash.com/photo-1591053442076-495738f08c12?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDF8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=900&q=60",
+          "flag_url": "https://hatscripts.github.io/circle-flags/flags/mx.svg"
+        },
+        {
+          "name": "Toronto",
+          "country": "Canada",
+          "cover_photo_url": "https://images.unsplash.com/photo-1507992781348-310259076fe0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dG9yb250b3xlbnwwfDB8MHx8&auto=format&fit=crop&w=900&q=60",
+          "flag_url": "https://hatscripts.github.io/circle-flags/flags/ca.svg"
+        },
+        {
+          "name": "Nasau",
+          "country": "Bahamas",
+          "cover_photo_url": "https://images.unsplash.com/photo-1548574505-5e239809ee19?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bmFzc2F1fGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=900&q=60",
+          "flag_url": "https://hatscripts.github.io/circle-flags/flags/bs.svg"
+        },
+        {
+          "name": "Las Vegas",
+          "country": "Estados Unidos",
+          "cover_photo_url": "https://images.unsplash.com/photo-1550109161-7262e652bf82?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8bGFzJTIwdmVnYXN8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=900&q=60",
+          "flag_url": "https://hatscripts.github.io/circle-flags/flags/us.svg"
+        }
+      ]
+    },
+    {
+      "code": "america-do-sul",
+      "name": "America do Sul",
+      "description": "A América do Sul é um continente que compreende a porção meridional da América. Também é considerada um subcontinente do continente americano. A sua extensão é de 17 819 100 km², abrangendo 12% da superfície terrestre e 6% da população mundial. Une-se à América Central a norte pelo istmo do Panamá e se separa da Antártida ao sul pelo estreito de Drake.",
+      "cover_photo_url": "https://images.unsplash.com/photo-1619546952812-520e98064a52?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8c291dGglMjBhbWVyaWNhfGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=2900&q=60",
+      "stats": {
+        "languages": 21,
+        "countries": 12,
+        "cities": 72
+      },
+      "cities": [
+        {
+          "name": "Curitiba",
+          "country": "Brasil",
+          "cover_photo_url": "https://images.unsplash.com/photo-1560273644-10a40ea5722c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y3VyaXRpYmF8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=900&q=60",
+          "flag_url": "https://hatscripts.github.io/circle-flags/flags/br.svg"
+        },
+        {
+          "name": "Buenos Aires",
+          "country": "Argentina",
+          "cover_photo_url": "https://images.unsplash.com/photo-1609080814811-5837f3c7095a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGJ1ZW5vcyUyMGFpcmVzfGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=900&q=60",
+          "flag_url": "https://hatscripts.github.io/circle-flags/flags/ar.svg"
+        },
+        {
+          "name": "Montevideo",
+          "country": "Uruguai",
+          "cover_photo_url": "https://images.unsplash.com/photo-1590683696407-f75a80b4a61d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8bW9udGV2aWRlb3xlbnwwfDB8MHx8&auto=format&fit=crop&w=900&q=60",
+          "flag_url": "https://hatscripts.github.io/circle-flags/flags/uy.svg"
+        },
+        {
+          "name": "Santiago",
+          "country": "Chile",
+          "cover_photo_url": "https://images.unsplash.com/photo-1593985437133-03d5e1435c03?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c2FudGlhZ298ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=900&q=60",
+          "flag_url": "https://hatscripts.github.io/circle-flags/flags/cl.svg"
+        },
+        {
+          "name": "Lima",
+          "country": "Peru",
+          "cover_photo_url": "https://images.unsplash.com/photo-1577587230708-187fdbef4d91?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bGltYXxlbnwwfDB8MHx8&auto=format&fit=crop&w=900&q=60",
+          "flag_url": "https://hatscripts.github.io/circle-flags/flags/pe.svg"
+        },
+        {
+          "name": "Bogota",
+          "country": "Colombia",
+          "cover_photo_url": "https://images.unsplash.com/photo-1568632234157-ce7aecd03d0d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Ym9nb3RhfGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=900&q=60",
+          "flag_url": "https://hatscripts.github.io/circle-flags/flags/co.svg"
+        }
+      ]
+    }
+  ]
+}
